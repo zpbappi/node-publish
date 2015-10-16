@@ -19,7 +19,7 @@
     "bower",
     "travis-ci"
   ],
-  "author": "Zp Bappi <zpbappi@gmail.com> (http://zpbappi.com)",
+  "author": "Zp Bappi<zpbappi@gmail.com>(http://zpbappi.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zpbappi/node-publish/issues"
